@@ -1,0 +1,2 @@
+Prefix plugins/SVARS/example/
+Plugin SVARS inputfile USA.csv outputfile cf.csv
